@@ -1,5 +1,6 @@
 # Home_Loan_Data-Analysis_dashboard
-<img width="936" height="736" alt="Screenshot 2025-11-07 124319" src="https://github.com/user-attachments/assets/824c1e5c-86ea-4256-a4ee-959a568aeacd" />
+<img width="1115" height="702" alt="image" src="https://github.com/user-attachments/assets/f2f4c4fb-e136-444f-a2c1-33de1d89cd9b" />
+
 
 
 ## Project Overview
